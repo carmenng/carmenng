@@ -15,11 +15,11 @@ affective systems.
 - *Auditing LLM-Governed Social Robots with Culture-Specific Moral Gradients* — **ACM FAccT 2026**
 - *Presenter at The Responsible AI Forum 2026* (Munich, Germany), **Institute for Ethics in Artificial Intelligence**
 - *Designing for Disagreement: Guardrails for LLM-Enabled Robots* — **CHI 2026 Workshop**
-- Founder, [AI East West](https://ai-eastwest.github.io/)
+- Founder, AI East West
 
-👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on intercultural responsible AI – and **seeking collaborators and interviewees**. If you know someone suitable (including yourself), who:
+👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on "AI ethics through personal stories" – and **seeking interviewees**. If you know someone suitable (including yourself), who:
 - work on/research **AI in education, companionship, history, and art**
-- have **experience surveying/working with non-AI professionals on impacts of AI**, e.g., teachers/educational psychologists, historians, writers, artists, companion AI users
+- are non-AI professionals such as teachers/educational psychologists, historians, writers, artists, companion AI users experiencing **first-hand impacts of AI**, or have **experience surveying/working with them** 
 - wish to introduce **culture/domain-specific perspectives about AI ethics** that mainstream discourse has overlooked
 
 Let's connect! (Interview timeline: summer-autumn 2026)
