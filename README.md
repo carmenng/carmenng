@@ -14,7 +14,7 @@ affective systems.
 **Recent work**
 - *Auditing LLM-Governed Social Robots with Culture-Specific Moral Gradients* — **ACM FAccT 2026**
 - *Presenter at The Responsible AI Forum 2026* (Munich, Germany), **Institute for Ethics in Artificial Intelligence**
-- *Designing for Disagreement: Guardrails for LLM-Enabled Robots* — **CHI 2026 Workshop**
+- *Designing for Disagreement: Front-End Guardrails for Assistance Allocation in LLM-Enabled Robots* — **CHI 2026 Workshop**
 - Founder, AI East West
 
 👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on "AI ethics through community stories" – and **seeking interviewees**. If you know someone suitable (including yourself), who:
