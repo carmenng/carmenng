@@ -19,8 +19,8 @@ affective systems.
 
 👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on "AI ethics through personal stories" – and **seeking interviewees**. If you know someone suitable (including yourself), who:
 - work on/research **AI in education, companionship, history, and art**
-- are non-AI professionals such as teachers/educational psychologists, historians, writers, artists, companion AI users experiencing **first-hand impacts of AI**, or have **experience surveying/working with them** 
-- wish to introduce **culture/domain-specific perspectives about AI ethics** that mainstream discourse has overlooked
+- or are non-AI professionals such as teachers/educational psychologists, historians, writers, artists, companion AI users experiencing **first-hand impacts of AI**, or have **experience surveying/working with them** 
+- or simply wish to introduce **culture/domain-specific perspectives about AI ethics** that mainstream discourse has overlooked
 
 Let's connect! (Interview timeline: summer-autumn 2026)
 
