@@ -9,7 +9,7 @@ affective systems.
 
 **Where I've worked and contributed:** Technical University of Munich, MIT Science Policy Review, Berkman Klein Center for Internet & Society at Harvard University, Reuters News, CNN News, Bloomberg News, Siemens.
 
-→ **Full profile, publications & work: [carmenng.org](https://www.carmenng.org)**
+→ → → **Full profile, publications & work: [carmenng.org](https://www.carmenng.org)**
 
 **Recent work**
 - *Auditing LLM-Governed Social Robots with Culture-Specific Moral Gradients* — **ACM FAccT 2026**
@@ -17,16 +17,16 @@ affective systems.
 - *Designing for Disagreement: Guardrails for LLM-Enabled Robots* — **CHI 2026 Workshop**
 - Founder, [AI East West](https://ai-eastwest.github.io/)
 
-**Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on intercultural responsible AI – and **seeking collaborators and interviewees**. If you know someone suitable (including yourself), who:
-- work on/research AI in education, companionship, history, and art
-- have experience surveying/working with non-AI professionals, e.g., teachers/educational psychologists, historians, writers, artists, AI companion users, related to how they witness or experience first-hand impacts of AI
-- wish to introduce perspectives about "AI ethics in real life" that mainstream discourse (policy & research) has overlooked
+👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on intercultural responsible AI – and **seeking collaborators and interviewees**. If you know someone suitable (including yourself), who:
+- work on/research **AI in education, companionship, history, and art**
+- have **experience surveying/working with non-AI professionals on impacts of AI**, e.g., teachers/educational psychologists, historians, writers, artists, companion AI users
+- wish to introduce **culture/domain-specific perspectives about AI ethics** that mainstream discourse has overlooked
 
 Let's connect! (Interview timeline: summer-autumn 2026)
 
 📫 carmen.ng@tum.de · [LinkedIn](https://linkedin.com/in/ngcarmen) · [book a coffee](https://calendly.com/meet-carmen-ng/20min)
 
-(Happy to chat in general about responsible AI as well).
+(Happy to chat in general about responsible AI as well) ☕
 
 
 
