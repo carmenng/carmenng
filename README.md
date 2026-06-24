@@ -18,7 +18,7 @@ affective systems.
 - Founder, [AI East West](https://ai-eastwest.github.io/)
 
 **Currently** developing a **trilingual digital book** on intercultural responsible AI with a
-Japan-based university – and **seeking collaborators and interviewees** working on AI in
-education, companionship, history, and art. If that's you, let's connect.
+Japanese university – and **seeking collaborators and interviewees** working on AI in
+education, companionship, history, and art. If that's you or you know someone suitable, let's connect.
 
 📫 carmen.ng@tum.de · [LinkedIn](https://linkedin.com/in/ngcarmen) · [book a coffee](https://calendly.com/meet-carmen-ng/20min)
