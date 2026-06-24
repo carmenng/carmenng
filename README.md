@@ -17,8 +17,8 @@ affective systems.
 - *Designing for Disagreement: Guardrails for LLM-Enabled Robots* — **CHI 2026 Workshop**
 - Founder, [AI East West](https://ai-eastwest.github.io/)
 
-**Currently** developing a **trilingual, open-access digital book** on intercultural responsible AI in collaboration a
+**Currently** developing a **trilingual, open-access, digital book** on intercultural responsible AI in collaboration a
 Japanese university – and **seeking collaborators and interviewees** working on AI in
-education, companionship, history, and art. Interviews will take place over Summer 2026 and wrap up by Autumn. If that's you / you know someone suitable / you wish to find out more about the project, let's connect.
+education, companionship, history, and art. Highly preferred: Eexperience surveying/working with non-AI professionals who witness or experience first-hand impacts of AI, teachers/educational psychologists, historians, writers, artists, AI companion users. Interviews will take place over summer 2026 and wrap up by autumn. If that's you / you know someone suitable / you wish to find out more about the project, let's connect.
 
 📫 carmen.ng@tum.de · [LinkedIn](https://linkedin.com/in/ngcarmen) · [book a coffee](https://calendly.com/meet-carmen-ng/20min)
