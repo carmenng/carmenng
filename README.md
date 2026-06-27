@@ -17,7 +17,7 @@ affective systems.
 - *Designing for Disagreement: Front-End Guardrails for Assistance Allocation in LLM-Enabled Robots* — **CHI 2026 Workshop**
 - Founder, AI East West
 
-👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with a Japanese university on "AI ethics through community stories" – and **seeking interviewees**. If you know someone suitable (including yourself), who:
+👋👋👋 **Currently** developing a **trilingual, open-access, digital book** in collaboration with an Asia-based university on "AI ethics through community stories" – and **seeking interviewees**. If you know someone suitable (including yourself), who:
 - work on/research **AI in education, companionship, history, and art**
 - or are non-AI professionals such as teachers/educational psychologists, historians, writers, artists, companion AI users experiencing **first-hand impacts of AI**, or have **experience surveying/working with them** 
 - or simply wish to introduce **culture/domain-specific perspectives about AI ethics** that mainstream discourse has overlooked
